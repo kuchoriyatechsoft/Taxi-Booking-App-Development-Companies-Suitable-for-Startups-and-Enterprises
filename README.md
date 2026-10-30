@@ -1,4 +1,3 @@
-# Taxi-Booking-App-Development-Companies-Suitable-for-Startups-and-Enterprises
 
 
 # How to Choose the Right Taxi Booking App Development Company
